@@ -24,8 +24,8 @@ Check out the app in action: [Watch the Video](https://drive.google.com/file/d/1
 
 ##Technologies Used 💻
 -**Languages**: XML, Kotlin
--Tools: Android Studio, Postman
--APIs: OpenWeather API
+-**Tools**: Android Studio, Postman
+-**APIs**: OpenWeather API
 
 ##Future Enhancements 📝
 -Add dynamic suggestions based on the city’s weather (e.g., "It’s raining in Jaipur, don’t forget your umbrella!").
