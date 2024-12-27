@@ -7,14 +7,35 @@ A dynamic Weather App that provides real-time weather details for any city enter
   - Temperature (current, maximum, minimum)
   - Humidity
   - Sea Level
+  - Wind Speed
+  - Sunrise,Sunset
   - Weather Condition (e.g., drizzle, sunny, cloudy)
   - Date and Time
 - 🎨 **Dynamic Background**: The app's background changes to match the current weather condition of the city. (e.g., rain for drizzle, sun for clear skies)
 - 🌟 **Splash Screen**: An engaging splash screen displayed when the app is opened.
 
 ## Demo 📸
-(Include screenshots or a short video demo of your app here)
+Check out the app in action: [Watch the Video](https://drive.google.com/file/d/1IHJqX8Z4DoVn2wcB-Q5me0vEhqw1Maou/view?usp=sharing)
+
 
 ## How to Run 🛠️
 1. Clone this repository:
+   https://github.com/stepforward2023/WeatherApp.git
+
+##Technologies Used 💻
+-Languages: XML, Kotlin
+-Tools: Android Studio, Postman
+-APIs: OpenWeather API
+
+##Future Enhancements 📝
+-Add dynamic suggestions based on the city’s weather (e.g., "It’s raining in Jaipur, don’t forget your umbrella!").
+-Include more weather updates like air quality index (AQI) or wind speed.
+-Enable multi-city weather tracking for frequent travelers.
+-Implement geolocation to fetch weather details automatically for the user's current location.
+-Create a widget for quick weather updates on the home screen.
+
+## Acknowledgements 🙌
+This app was created as part of a learning project, inspired by [NeatRoots](https://www.youtube.com/@NeatRoots). Thank you for the step-by-step guidance!
+
+
 
