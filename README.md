@@ -23,7 +23,7 @@ Check out the app in action: [Watch the Video](https://drive.google.com/file/d/1
    https://github.com/stepforward2023/WeatherApp.git
 
 ##Technologies Used 💻
--Languages: XML, Kotlin
+-**Languages**: XML, Kotlin
 -Tools: Android Studio, Postman
 -APIs: OpenWeather API
 
