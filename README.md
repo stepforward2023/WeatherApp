@@ -22,17 +22,17 @@ Check out the app in action: [Watch the Video](https://drive.google.com/file/d/1
 1. Clone this repository:
    https://github.com/stepforward2023/WeatherApp.git
 
-##Technologies Used 💻
--**Languages**: XML, Kotlin
--**Tools**: Android Studio, Postman
--**APIs**: OpenWeather API
+## Technologies Used 💻
+- **Languages**: XML, Kotlin
+- **Tools**: Android Studio, Postman
+- **APIs**: OpenWeather API
 
-##Future Enhancements 📝
--Add dynamic suggestions based on the city’s weather (e.g., "It’s raining in Jaipur, don’t forget your umbrella!").
--Include more weather updates like air quality index (AQI) or wind speed.
--Enable multi-city weather tracking for frequent travelers.
--Implement geolocation to fetch weather details automatically for the user's current location.
--Create a widget for quick weather updates on the home screen.
+## Future Enhancements 📝
+- Add dynamic suggestions based on the city’s weather (e.g., "It’s raining in Jaipur, don’t forget your umbrella!").
+- Include more weather updates like air quality index (AQI) or wind speed.
+- Enable multi-city weather tracking for frequent travelers.
+- Implement geolocation to fetch weather details automatically for the user's current location.
+- Create a widget for quick weather updates on the home screen.
 
 ## Acknowledgements 🙌
 This app was created as part of a learning project, inspired by [NeatRoots](https://www.youtube.com/@NeatRoots). Thank you for the step-by-step guidance!
